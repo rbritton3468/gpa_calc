@@ -29,7 +29,7 @@ class FirstRoute extends StatelessWidget {
             child: Text(textAlign: TextAlign.right, "By Rob Britton")),
       ),
       appBar: AppBar(
-        title: const Text('First Route'),
+        title: const Text('GPA'),
       ), //    (:
       body: Center(
         child: Text(
