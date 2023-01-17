@@ -1,3 +1,8 @@
+gpa calc for ehs
+made in flutter
+
+
+
 # gpa_calc
 
 A new Flutter project.
