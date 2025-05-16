@@ -1,11 +1,11 @@
-gpa calc for ehs
-made in flutter
+
 
 
 
 # gpa_calc
 
-A new Flutter project.
+Flutter GPA calculator for Episcopal High School 
+
 
 ## Getting Started
 
